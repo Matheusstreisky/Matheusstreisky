@@ -26,16 +26,18 @@ Outside of the professional environment, I am passionate about games, especially
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-# 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheus-streisky-79b825157/)
-
 # 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusstreisky)](https://github.com/matheusstreisky/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheusstreisky" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusstreisky&layout=compact" />
+</a>
 
+# 🌐 Socials
 
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-streisky-79b825157/)
 
 <!--
 **Matheusstreisky/Matheusstreisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
