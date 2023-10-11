@@ -26,6 +26,7 @@ Outside of the professional environment, I am passionate about games, especially
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+<!--
 # 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,6 +35,7 @@ Outside of the professional environment, I am passionate about games, especially
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusstreisky&layout=compact" />
 </a>
+-->
 
 # 🌐 Socials
 
